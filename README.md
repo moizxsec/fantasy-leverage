@@ -1,6 +1,6 @@
 # Leo on the Hill
 
-A pixel-art short film. Maryam is lying in a daisy field with one song on loop
+A pixel-art short film. A girl is lying in a daisy field with one song on loop
 and an earbud in. A ginger cat named Leo turns up with opinions.
 
 Three minutes. Two endings, decided by the answers you pick.
